@@ -1,4 +1,4 @@
-# CordaDevDeployment Google Clould
+# CordaDevDeployment Google Cloud
 ## Step1:
 ## Network Bootstrapper
 Create a directory containing a node config file, ending in “_node.conf”, for each node you want to create. “devMode” must be set to true. Then run the following command:
